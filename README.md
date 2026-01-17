@@ -1,1 +1,1 @@
-# turing_reaction_diffusion
+# Turing Reaction Diffusion
